@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: undefined_variable.py
+    visible: true
+    placeholders:
+      - offset: 18
+        length: 14
+        placeholder_text: variable
+        initial_state:
+          length: 8
+          offset: 19
+        initialized_from_dependency: false
+        encrypted_possible_answer: chbWVbivddhwYzK5j0LqHQ==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Undefined+Variable
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 04 Oct 2024 04:02:44 UTC"
+record: -1
